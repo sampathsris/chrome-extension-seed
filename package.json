@@ -1,0 +1,12 @@
+{
+  "name": "chrome-extension-seed",
+  "version": "1.0.0",
+  "description": "A Seed for Chrome Extensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sampath Sitinamaluwa",
+  "license": "ISC"
+}
