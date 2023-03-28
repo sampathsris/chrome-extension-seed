@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Extension Name",
+    "description": "Extension Description",
+    "version": "1.0.0",
+    "action": {
+      "default_popup": "hello.html",
+      "default_icon": "images/icon-32.png"
+    }
+}
