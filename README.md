@@ -21,6 +21,17 @@ A seed repository to build a [Chrome Extension](https://developer.chrome.com/doc
     - If necessary, change the `LICENSE` file as well.
 3. Start editing the content of the `src` directory to add functionality to your extension.
 
+
+## Updating
+
+First, make sure your changes are committed in your own repo.
+
+```
+git fetch upstream
+git merge upstream/main
+```
+
+
 ## Attributions
 
 [Extension icons created by Royyan Wijaya - Flaticon](https://www.flaticon.com/free-icons/extension).
