@@ -2,10 +2,12 @@
 
 A seed repository to build a [Chrome Extension](https://developer.chrome.com/docs/extensions/mv3/) compatible with [Manifest version 3.0](https://developer.chrome.com/docs/extensions/mv3/intro/).
 
+The original repository is https://github.com/sampathsris/chrome-extension-seed.git.
+
 
 ## How to Start
 
-1. Fork the repo, or,
+1. Fork the original repo, or,
 
     ```
     git clone https://github.com/sampathsris/chrome-extension-seed.git your-repo
@@ -17,8 +19,10 @@ A seed repository to build a [Chrome Extension](https://developer.chrome.com/doc
     ```
 
     Really, just fork!
+
 2. Change the `package.json` and `src/mannifest.json` to your liking. This includes chaging names, descriptions, version numbers, and the license field.
     - If necessary, change the `LICENSE` file as well.
+
 3. Start editing the content of the `src` directory to add functionality to your extension.
 
 
